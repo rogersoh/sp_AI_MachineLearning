@@ -1,1 +1,0 @@
-[Topic 2 - Data preprocessing (Section 1)](https://lms.polite.edu.sg/d2l/le/enhancedSequenceViewer/636728?url=https%3A%2F%2F4493420a-e37c-4d7e-bc33-55d49da1a74d.sequences.api.brightspace.com%2F636728%2Factivity%2F10349221%3FfilterOnDatesAndDepth%3D1)  
