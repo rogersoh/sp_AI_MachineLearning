@@ -120,11 +120,11 @@ data/external/
 .settings/
 
 # Configuration files (optional - uncomment if needed)
-# config.ini
-# config.yaml
-# config.json
-# .env
-# credentials.json
+config.ini
+config.yaml
+config.json
+.env
+credentials.json
 
 # OS generated files
 *.log
