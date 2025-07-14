@@ -1,1 +1,149 @@
+# macOS
 .DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+*.ipynb_checkpoints
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+*.pyc
+*.pyo
+*.pyd
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Virtual environments
+.conda/
+.anaconda/
+anaconda3/
+miniconda3/
+
+# Machine Learning / Data Science
+*.h5
+*.hdf5
+*.pkl
+*.pickle
+*.joblib
+*.model
+*.keras
+*.ckpt
+*.pt
+*.pth
+*.safetensors
+wandb/
+mlruns/
+.mlflow/
+tensorboard_logs/
+logs/
+checkpoints/
+saved_models/
+models/
+data/raw/
+data/processed/
+data/external/
+*.csv
+*.xlsx
+*.xls
+*.json
+*.parquet
+*.feather
+
+# Document files
+*.pdf
+*.doc
+*.docx
+*.ppt
+*.pptx
+*.xls
+*.xlsx
+*.rtf
+*.odt
+*.ods
+*.odp
+
+# Archives
+*.zip
+*.rar
+*.7z
+*.tar.gz
+*.tar.bz2
+*.gz
+*.bz2
+
+# IDE and Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.classpath
+.settings/
+
+# Configuration files (optional - uncomment if needed)
+# config.ini
+# config.yaml
+# config.json
+# .env
+# credentials.json
+
+# OS generated files
+*.log
+*.tmp
+*.temp
+.cache/
+.pytest_cache/
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+
+# Orange Data Mining files
+*.ows
+*.pkcls
+
+# Temporary files
+*~
+*.bak
+*.backup
+*.orig
