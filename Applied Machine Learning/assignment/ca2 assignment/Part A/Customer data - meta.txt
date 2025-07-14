@@ -1,0 +1,8 @@
+CustomerID: The unique ID of the customer.
+Gender: Gender of the customer.
+Age: Age of the customer.
+Income: The annual income of the customer (in thousands of dollars).
+How Much They Spend: How much (in dollars) the customer spends in the shop.
+Salary: Monthly salary of customer (in thousands of dollars).
+Spend to salary ratio: How much they spend divided by salary.
+Alpha: An unknown (likely extraneous ...) feature.
