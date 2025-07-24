@@ -77,10 +77,6 @@ logs/
 checkpoints/
 saved_models/
 models/
-data/raw/
-data/processed/
-data/external/
-*.csv
 *.xlsx
 *.xls
 *.json
